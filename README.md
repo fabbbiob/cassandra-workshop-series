@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/DataStax-Academy/cassandra-workshop-series)
+
 # 🎓🔥 Cassandra Workshop Series 🔥🎓
 
 [![License Apache2](https://img.shields.io/hexpm/l/plug.svg)](http://www.apache.org/licenses/LICENSE-2.0)
@@ -12,6 +14,7 @@ You can expect to end the 8 week course with a very high proficiency in Apache C
 ![INFO](https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F104059058%2F312276190164%2F1%2Foriginal.20200619-150816?h=2000&w=720&auto=format%2Ccompress&q=75&sharp=10&s=dbaf38edb1e9e83a43331dcda10eee06)
 
 ➡️ [ENROLL NOW HERE](https://www.eventbrite.com/e/cassandra-workshop-series-your-path-to-becoming-a-cassandra-expert-tickets-110114461318) ⬅️
+
 
 
 
